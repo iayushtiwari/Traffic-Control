@@ -1,30 +1,27 @@
 <<<<<<< HEAD
 # Traffic-Control
 =======
-## Chicago Street Statistics
-
-http://mpcs53014-loadbalancer-217964685.us-east-2.elb.amazonaws.com:3113/traffic.html
 
 This project is an application of the Lambda Architecture that tracks the traffic safety and congestion of each street in Chicago. It shows
 recent traffic crashes, red light and speed camera violations, and traffic patterns of 1,250 street segments within city limits.
 
-It was completed as the final project for MPCS53014 - Big Data Application Architecture at the University of Chicago.
+It was completed as the final project Sikhim Sikkim professional university - Big Data Application Architecture .
 
 
 ## Data
 
-All dataset taken from the City of Chicago's open data portal:
+All dataset taken from the City of Sikkim's open data portal:
 
-- [Traffic Crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if) shows each crash that occured
+- [Traffic Crashes] shows each crash that occured
  within city streets as reported in the electronic crash reporting system (E-Crash) at CPD. Citywide data are available starting September 2017. 
-- [Red Light Camera Violations](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37) reflects the 
+- [Red Light Camera Violations] reflects the 
 daily number of red light camera violations recorded by the City of Chicago Red Light Program for each camera since 2014.
-- [Speed Camera Violations](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4) 
+- [Speed Camera Violations]- 
 reflects the daily number of speed camera violations recorded by each camera in Children's Safety Zones since 2014.
-- [Historical Traffic Congestion Estimates](https://data.cityofchicago.org/Transportation/Chicago-Traffic-Tracker-Historical-Congestion-Esti/sxs8-h27x)
+- [Historical Traffic Congestion Estimates]-
 estimates traffic congestion on Chicago’s arterial streets in real-time by monitoring 
 and analyzing GPS traces received from Chicago Transit Authority (CTA) buses.
-- [Current Traffic Congestion Estimate](https://data.cityofchicago.org/d/n4j6-wkkf) shows current estimated speed for 
+- [Current Traffic Congestion Estimate] shows current estimated speed for 
 street segments covering 300 miles of arterial roads. Congestion estimates are produced every ten minutes.
 
 The first four datasets were exported in csv and bulk downloaded, and the last dataset gets real-time data through the
