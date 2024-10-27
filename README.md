@@ -2,7 +2,7 @@
 # Traffic-Control
 =======
 
-This project is an application of the Lambda Architecture that tracks the traffic safety and congestion of each street in Chicago. It shows
+This project is an application of the Lambda Architecture that tracks the traffic safety and congestion of each street in city. It shows
 recent traffic crashes, red light and speed camera violations, and traffic patterns of 1,250 street segments within city limits.
 
 It was completed as the final project Sikhim Sikkim professional university - Big Data Application Architecture .
