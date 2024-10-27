@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Single Webserver">
+        <serverdata>
+          <mappings>
+            <mapping deploy="dev/yson/project" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/../../../msspertu/Demo/.idea" />
+            <excludedPath local="true" path="D:/Users/Msspertu/Demo/package-lock.json" />
+            <excludedPath local="true" path="$PROJECT_DIR$/../../../msspertu/Demo/node_modules" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
